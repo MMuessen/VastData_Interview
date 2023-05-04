@@ -76,7 +76,7 @@ Here you can see how I calculated todays installs using the normalized field I c
 
 1x Dell R610 - TrueNAS - Hosting PieHOLE and Guacamole Server
   
-1x DellR720 - ESXi 7.0.3
+1x Dell R720 - ESXi 7.0.3
 
 1x Dell 5070 MS - ESXi 7.0.3 - Hosting VCenter
   
