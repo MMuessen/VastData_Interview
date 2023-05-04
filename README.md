@@ -12,7 +12,7 @@
 
 ### Why Vast is the perfect place for me
 
-If there is one thing I love, its learning and being challenged.  I love being uncomfortable, and being stretched which is why I love the startup world!  I get a great deal of accomplishment solving problems, especially when I am able to find a new creative way to solve them.  I love knowing that I showed up for my customers, heard their challenges, empathized with them, and made it my personal mission to find a way to make that problem dissapear. Vasts disruptive technology is a game changer and I am very excited to not only personally learn a new area of technology, but am incredibly excited about the future of the company.
+If there is one thing I love, its learning and being challenged.  I love being uncomfortable, and being stretched which is why I love the startup world!  I get a great deal of accomplishment solving problems, especially when I am able to find a new creative way to solve them.  I love knowing that I showed up for my customers, heard their challenges, empathized with them, and then made it my personal mission to find a way to make their problems dissapear. Vasts disruptive universal storage is a game changer and I am very excited to not only personally dive deeper into the technology, but am incredibly excited about the future of the company.
 
 ### Why I am the perfect candidate for Vast
 
