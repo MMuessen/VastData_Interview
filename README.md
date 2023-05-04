@@ -30,3 +30,23 @@
 ***The Code*** - The code was written in powershell (PowerCLI) and used nested Powershell scripts for windows guest os configurations and changes and nested bash scripts for linux guest os configurations.  
 
 [Here is the Code](https://github.com/MMuessen/VastData_Interview/blob/main/PowerCLI_VMArrayLoop_Tool.ps1)
+
+### Example 3
+**Tanium Sensor to show all deduplicated unique connections to a server - Python**
+
+***The Problem*** - Sales person sold a solution to the customer which the product didnt quite do.  The previous sensor was basically a TCP dump but the customer was sold they could get actionable data to prepare for an on prem to cloud migration.  This was handing them a haystack of data which wasnt helpful.
+
+***The Solution*** - I took the old sensor and rewrote it adding deduplication, as well as filtered out any local traffic, and excluded ports such as the ones we used for tanium.  I also added an inbound and outbound parameter which allowed me to greatly reduce the string count on our platform for that sensor.
+
+***The Code*** - I cannot publish the code but I will show the before and the after results of the output.  Here are examples of the sensor results in my lab.
+
+### Example 4
+**Tanium Sensor to show all installed applications by date with Date Normalization - VBScript**
+
+***The Problem*** - My customer asked if we could track software installs for each piece of software in their environment by day.  We had a sensor which would display installed application dates but those dates were in many different formats because they came from the registry based on however the software displayed them.  Because they were all in different formats, you couldnt do any sorting, filtering, or calculating based on those fields.
+
+***The Solution*** - In order to solve this I rewrote the sensor to first normalize the date.  I then wrote a second sensor which would only display todays install results based on that normalized field.  I was able to not only provide them an exportable list at any moment of what had been installed on any day, but was able to turn this sensor into a report to show daily installs over time.
+
+***The Code*** - I cannot publish the code but I will show the before and the after results of the output.  Here are examples of the sensor results in my lab.
+
+
