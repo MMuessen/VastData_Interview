@@ -10,7 +10,7 @@ Hello, and thank you for taking the time to meet with me today!
 # Example Work
 
 ### Example 1
-**Host based traffic Generation Script**
+**Host based traffic Generation Script - Powershell**
 The Problem - Needed traffic to create a heart beat or realism to a cyber exercise training environment.  Previously the only solution was running network based recorded PCAP files across the network but the source and destination of these were not real endpoints in the environment so it was easier for red and blue teams to filter out.
 
 The Solution - wrote a simple powershell script which was call on startup from a vbscript to perform at random typical enduser functions directly on each endpoint in the environment to create true client based traffic which would look real across the wire and on the endpoint.
