@@ -39,6 +39,7 @@ Else {createArray}
 #*******************************************************************
 function doWork{
 ForEach ($VMGuest in $ALLVMGUESTS) {
+#get the number from the state name string for correct state PW variable assignment
 $CurrentState = $VMGuest.name.Substring(1,2)
 
 #***********************************************************
