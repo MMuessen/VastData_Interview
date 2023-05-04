@@ -34,7 +34,7 @@
 ### Example 3
 **Tanium Sensor to show all deduplicated unique connections to a server - Python**
 
-***The Problem*** - Sales person sold a solution to the customer which the product didnt quite do.  The previous sensor was basically a TCP dump but the customer was sold they could get actionable data to prepare for an on prem to cloud migration.  This was handing them a haystack of data which wasnt helpful. To make this even more complicated they needed this data for over 800 Servers which powered their applications.  
+***The Problem*** - Sales person sold a solution to the customer which the product didnt quite do.  The previous sensor was basically a TCP dump but the customer was sold they could get actionable data to prepare for an on prem to cloud migration.  This was handing them a haystack of data which wasn't helpful. To make this even more complicated they needed this data for over 800 Servers which powered their applications.  
 
 ***The Solution*** - I took the old sensor and rewrote it adding deduplication, as well as filtered out any local traffic, and excluded ports such as the ones we used for tanium.  I also added an inbound and outbound parameter which allowed me to greatly reduce the string count on our platform for that sensor.
 
