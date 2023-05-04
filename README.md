@@ -49,7 +49,18 @@ Startups (especially those which are growing very fast) can be alot of work, and
 
 ***The Solution*** - I took the old sensor and rewrote it adding deduplication, as well as filtered out any local traffic, and excluded ports such as the ones we used for tanium.  I also added an inbound and outbound parameter which allowed me to greatly reduce the string count on our platform for that sensor.
 
-***The Code*** - I cannot publish the code but I will show the before and the after results of the output.  Here are examples of the sensor results in my lab.
+***The Code*** - I cannot publish the code but I will show the before and the after results of the output.  Here are examples of the sensor results in my lab.  I can share my screen to show you the script during the interview if you would like to see it.
+
+***Note*** - The Customer CISO was so happy and impressed with the solution I provided, that their 5k endpoint POC was converted and expanded to an over 30k endpoints license across the entire enterprise.  It directly resulted in a 6x upsell on footprint as well as a few additional modules acquired.
+
+Before my code:  Here you can see with just 6 endpoints in my lab reporting in there are more than 1800 entries showing over a 24 hour period and thats not all of them.
+
+
+
+My new code:  You can see there is now one entry for each endpoint and the results are all sorted and deduplicated and filtered.  This is now actionable data.
+
+
+
 
 ### Example 4
 **Tanium Sensor to show all installed applications by date with Date Normalization - VBScript**
@@ -58,8 +69,11 @@ Startups (especially those which are growing very fast) can be alot of work, and
 
 ***The Solution*** - In order to solve this I rewrote the sensor to first normalize the date.  I then wrote a second sensor which would only display todays install results based on that normalized field.  I was able to not only provide them an exportable list at any moment of what had been installed on any day, but was able to turn this sensor into a report to show daily installs over time.
 
-***The Code*** - I cannot publish the code but I will show the before and the after results of the output.  Here are examples of the sensor results in my lab.
+***The Code*** - I cannot publish the code but I will show the before and the after results of the output.  Here are examples of the sensor results in my lab. I can share my screen to show you the script during the interview if you would like to see it.
 
+Here you can see an example of the date normalization working on two different formats it was receiving from the endpoint registry.
+
+Here you can see how I calculated todays installs using the normalized field I coded and then was able to report on it daily as my customer requested.
 
 # My Home Lab
 
