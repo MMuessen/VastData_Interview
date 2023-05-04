@@ -73,11 +73,11 @@ My new code:  You can see there is now one entry for each endpoint and the resul
 
 Here you can see an example of the date normalization working on two different formats it was receiving from the endpoint registry.
 
-![EX4a](https://github.com/MMuessen/VastData_Interview/blob/main/EX4a.png)
+![EX4b](https://github.com/MMuessen/VastData_Interview/blob/main/EX4b.png)
 
 Here you can see how I calculated todays installs using the normalized field I coded and then was able to report on it daily as my customer requested.
 
-![EX4b](https://github.com/MMuessen/VastData_Interview/blob/main/EX4b.png)
+![EX4a](https://github.com/MMuessen/VastData_Interview/blob/main/EX4a.png)
 
 # My Home Lab
 
