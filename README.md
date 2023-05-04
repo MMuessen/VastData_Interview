@@ -23,7 +23,7 @@ Startups (especially those which are growing very fast) can be alot of work, and
 ### Example 1
 **Host based traffic Generation Script - Powershell**
 
-***The Problem*** - Needed traffic to create a heart beat or realism to a cyber exercise training environment.  Previously the only solution was running network based traffic from recorded PCAP files across the network but the source and destination of these were not real endpoints in the environment so it was easier for red and blue teams to filter out.
+***The Problem*** - Needed traffic to create a heart beat and realism to a cyber exercise training environment.  Previously the only solution was running network based traffic from recorded PCAP files across the network but the source and destination of these were not real endpoints in the environment so it was easier for red and blue teams to filter out.
 
 ***The Solution*** - I wrote a simple powershell script which was called on startup from a vbscript to perform at random typical enduser functions directly on each endpoint in the environment to create true client based traffic which would look real across the wire and on the endpoint.
 
