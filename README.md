@@ -36,7 +36,7 @@
 
 ***The Problem*** - Sales person sold a solution to the customer which the product didnt quite do.  The previous sensor was basically a TCP dump but the customer was sold they could get actionable data to prepare for an on prem to cloud migration.  This was handing them a haystack of data which wasn't helpful. To make this even more complicated they needed this data for over 800 Servers which powered their applications.  
 
-***The Solution*** - I took the old sensor and rewrote it adding deduplication, as well as filtered out any local traffic, and excluded ports such as the ones we used for tanium.  I also added an inbound and outbound parameter which allowed me to greatly reduce the string count on our platform for that sensor.
+***The Solution*** - I took the old sensor and rewrote it adding deduplication, as well as filtered out any local traffic, and excluded ports such as the ones we used for Tanium.  I also added an inbound and outbound parameter which allowed me to greatly reduce the string count on our platform for that sensor.
 
 ***The Code*** - I cannot publish the code but I will show the before and the after results of the output.  Here are examples of the sensor results in my lab.  I can share my screen to show you the script during the interview if you would like to see it.
 
