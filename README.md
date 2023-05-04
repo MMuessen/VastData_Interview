@@ -65,7 +65,7 @@ My code:  You can see there is now one entry for each endpoint and the results a
 ### Example 4
 **Tanium Sensor to show all installed applications by date with Date Normalization - VBScript**
 
-***The Problem*** - My customer asked if we could track software installs for each piece of software in their environment by day.  We had a sensor which would display installed application dates but those dates were in many different formats because they came from the registry based on however the software displayed them.  Because they were all in different formats, you couldnt do any sorting, filtering, or calculating based on those fields.
+***The Problem*** - My customer asked if we could track software installs for each piece of software in their environment by day.  We had a sensor which would display installed application dates but those dates were in many different formats because they came from the registry based on however each software vender displayed them.  Because they were all in different formats, you couldnt do any sorting, filtering, or calculating based on those fields.
 
 ***The Solution*** - In order to solve this I rewrote the sensor to first normalize the date.  I then wrote a second sensor which would only display todays install results based on that normalized field.  I was able to not only provide them an exportable list at any moment of what had been installed on any day, but was able to turn this sensor into a report to show daily installs over time.
 
