@@ -29,7 +29,7 @@ Startups (especially those which are growing very fast) can be alot of work, and
 
 ***The Code*** - The code would at random browse websites and create unique doc files of different sizes with unique names in two different folders on the endpoints.  This created unique HTTP and HTTPS traffic as well as created documents on endpoints which would make it harder for blue teams to find malicious artifacts.  
 
-[Here is the Code](https://github.com/MMuessen/VastData_Interview/blob/main/traffic.ps1)
+### [Here is the Code](https://github.com/MMuessen/VastData_Interview/blob/main/traffic.ps1)
 
 ### Example 2
 **PowerCLI Tool for mass deployment and configuration of large scale VMware environments - Powershell & Bash**
@@ -40,7 +40,7 @@ Startups (especially those which are growing very fast) can be alot of work, and
 
 ***The Code*** - The code was written in powershell (PowerCLI) and used nested Powershell scripts for windows guest os configurations and changes and nested bash scripts for linux guest os configurations.  
 
-[Here is the Code](https://github.com/MMuessen/VastData_Interview/blob/main/PowerCLI_VMArrayLoop_Tool.ps1)
+### [Here is the Code](https://github.com/MMuessen/VastData_Interview/blob/main/PowerCLI_VMArrayLoop_Tool.ps1)
 
 ### Example 3
 **Tanium Sensor to show all deduplicated unique connections to a server - Python**
