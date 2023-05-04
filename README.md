@@ -75,7 +75,7 @@ Here you can see an example of the date normalization working on two different f
 
 ![EX4b](https://github.com/MMuessen/VastData_Interview/blob/main/EX4b.png)
 
-Here you can see how I calculated todays installs using the normalized field I coded and then was able to report on it daily as my customer requested.
+Here you can see how I calculated todays installs using the normalized field I coded and then was able to report on it daily as my customer requested. In my lab this is pretty boring because I only have one or two things being installed a day but this was really powerful data to see in a large enterprise environment.  
 
 ![EX4a](https://github.com/MMuessen/VastData_Interview/blob/main/EX4a.png)
 
