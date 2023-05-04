@@ -4,3 +4,5 @@
 Hello, and thank you for taking the time to meet with me today!
 
 ![VastLogo](https://github.com/MMuessen/VastData_Interview/blob/main/deepLearning.png?raw=true)
+
+## You can view a copy of my resume [HERE](https://github.com/MMuessen/VastData_Interview/blob/main/MattMuessenResumeApril2023.pdf)
