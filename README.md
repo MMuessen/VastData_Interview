@@ -57,7 +57,7 @@ Before my code:  Here you can see with just 6 endpoints in my lab reporting in t
 
 ![EX3a](https://github.com/MMuessen/VastData_Interview/blob/main/EX3a.png)
 
-My new code:  You can see there is now one entry for each endpoint and the results are all sorted and deduplicated and filtered.  This is now actionable data.
+My code:  You can see there is now one entry for each endpoint and the results are all sorted and deduplicated and filtered.  The second and third columns are inbound traffic and the fourth and fifth columns are outbound traffic.  This is now actionable data. The customer can simple filter by the hostname of the server and have live information for all inbound and outbound traffic.  
 
 ![EX3b](https://github.com/MMuessen/VastData_Interview/blob/main/EX3b.png)
 
