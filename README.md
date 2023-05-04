@@ -7,6 +7,16 @@
 
 ## You can view a copy of my resume [HERE](https://github.com/MMuessen/VastData_Interview/blob/main/MattMuessenResumeApril2023.pdf)
 
+# The Fit
+
+### Why Vast is the perfect place for me
+
+If there is one thing I love, its learning and being challenged.  I love being uncomfortable, and being stretched which is why I love the startup world!  I get a great deal of accomplishment solving problems, especially when I am able to find a new better way to solve them.  I love knowing that I showed up for my customers, hearing their challenged, empathizing with them, and then making it my personal mission to find a way to make that problem dissapear. Vasts disruptive technology is a game changer and I am very excited to not only personally learn a new area of technology, but am incredibly excited about the future of the company.
+
+### Why I am the perfect candidate for Vast
+
+Startups (especially those which are growing very fast) can be alot of work, and I embrace that.  I am equally passionate about technology as I am about my customers and the companys business objectives.  Any place you are hired you may not be able to control if you are the most talented person in the room but you can control your effort and output.  I like to think I have made a career out of being one of the most relentless engineers you will find when it comes to never stopping until I find a creative solution.  If I joined the team I would dive into the technology, the company culture, the business objectives, and most important of all my customers unique challenges.
+
 # Example Work
 
 ### Example 1
