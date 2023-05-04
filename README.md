@@ -17,4 +17,4 @@ The Solution - wrote a simple powershell script which was call on startup from a
 
 The Code - The code would at random browse websites and create unique doc files of different sizes with unique names in two different folders on the endpoints.  This created unique HTTP and HTTPS traffic as well as created documents on endpoints which would make it harder for blue teams to find malicious artifacts.  
 
-[Here is the Code]()
+[Here is the Code](https://github.com/MMuessen/VastData_Interview/blob/main/traffic.ps1)
