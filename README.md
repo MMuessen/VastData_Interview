@@ -23,10 +23,10 @@
 ### Example 2
 **PowerCLI Tool for mass deployment and configuration of large scale VMware environments - Powershell & Bash**
 
-***The Problem*** - Needed t
+***The Problem*** - Needed a way to be able to make mass changes and configurations to hundreds and thousands of vms including changes in the guest OS almost instantly.
 
-***The Solution*** - wrote a simple PowerCLI
+***The Solution*** - wrote a simple PowerCLI tool which would allow me to build an array of VMs to target by selecting different strings within a vmware folder and adding them to one large array until user input is complete.  The tool then had a doWork function which I could use to either make changes to the vmware infrastructure (such as changing a NIC) or I could even execute scripts in the guest OS to make configurations to the clients.  I could use nested powershell scripts for windows and bash scripts for linux.
 
-***The Code*** - The code 
+***The Code*** - The code was written in powershell (PowerCLI) and used nested Powershell scripts for windows guest os configurations and changes and nested bash scripts for linux guest os configurations.  
 
 [Here is the Code](https://github.com/MMuessen/VastData_Interview/blob/main/PowerCLI_VMArrayLoop_Tool.ps1)
