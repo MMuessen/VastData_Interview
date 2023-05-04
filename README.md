@@ -25,7 +25,7 @@ Startups (especially those which are growing very fast) can be alot of work, and
 
 ***The Problem*** - Needed traffic to create a heart beat and realism to a cyber exercise training environment.  Previously the only solution was running network based traffic from recorded PCAP files across the network but the source and destination of these were not real endpoints in the environment so it was easier for red and blue teams to filter out.
 
-***The Solution*** - I wrote a simple powershell script which was called on startup from a vbscript to perform at random typical enduser functions directly on each endpoint in the environment to create true client based traffic which would look real across the wire and on the endpoint.
+***The Solution*** - I wrote a simple powershell script which was called on startup from a vbscript to perform at random typical user functions directly on each endpoint in the environment to create true client based traffic which would look real across the wire and on the endpoint.
 
 ***The Code*** - The code would at random browse websites and create unique doc files of different sizes with unique names in two different folders on the endpoints.  This created unique HTTP and HTTPS traffic as well as created documents on endpoints which would make it harder for blue teams to find malicious artifacts.  
 
