@@ -57,13 +57,11 @@
 1x Ubiquiti Dream machine Pro
 
 1x Dell R610 - Running TrueNAS
-
   -Hosting PieHOLE and Guacamole Server
   
 1x DellR720 running ESXi 7.0.3
 
 1x Dell 5070 MS running ESXi 7.0.3
-
   -Hosting VCenter
   
 1x Dell 7090 MS running ESXi 7.0.3
