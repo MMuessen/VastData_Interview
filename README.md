@@ -16,7 +16,7 @@ If there is one thing I love, its learning and being challenged.  I love being u
 
 ### Why I am the perfect candidate for Vast
 
-Startups (especially those which are growing very fast) can be alot of work, and I embrace that.  I am equally passionate about technology as I am about my customers and the companys business objectives.  Any place you are hired you may not be able to control if you are the most talented person in the room but you can control your effort and output.  I like to think I have made a career out of being one of the most relentless engineers you will find when it comes to never stopping until I find a creative solution.  If I joined the team I would be dedicated to learning the technology, company culture, business objectives, and most importantly my customers unique challenges.
+Startups (especially those which are growing very fast) can be alot of work, and I embrace that.  I am equally passionate about technology as I am about my customers and the companys business objectives.  Any place you are hired you may not be able to control if you are the most talented person in the room but you can control your effort and output.  I like to think I have made a career out of being one of the most relentless engineers you will find when it comes to never stopping until I find a solution.  If I joined the team I would be dedicated to learning the technology, company culture, business objectives, and most importantly my customers unique challenges.
 
 # Example Work
 
