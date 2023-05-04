@@ -55,11 +55,11 @@ Startups (especially those which are growing very fast) can be alot of work, and
 
 Before my code:  Here you can see with just 6 endpoints in my lab reporting in there are more than 1800 entries showing over a 24 hour period and thats not all of them.
 
-![EX3a](https://github.com/MMuessen/VastData_Interview/blob/main/ex3a.png?raw=true)
+![EX3a](https://github.com/MMuessen/VastData_Interview/blob/main/EX3a.png)
 
 My new code:  You can see there is now one entry for each endpoint and the results are all sorted and deduplicated and filtered.  This is now actionable data.
 
-![EX3b](https://github.com/MMuessen/VastData_Interview/blob/main/ex3b.png?raw=true)
+![EX3b](https://github.com/MMuessen/VastData_Interview/blob/main/EX3b.png)
 
 
 ### Example 4
@@ -73,11 +73,11 @@ My new code:  You can see there is now one entry for each endpoint and the resul
 
 Here you can see an example of the date normalization working on two different formats it was receiving from the endpoint registry.
 
-![EX4a](https://github.com/MMuessen/VastData_Interview/blob/main/ex4a.png?raw=true)
+![EX4a](https://github.com/MMuessen/VastData_Interview/blob/main/EX4a.png)
 
 Here you can see how I calculated todays installs using the normalized field I coded and then was able to report on it daily as my customer requested.
 
-![EX4b](https://github.com/MMuessen/VastData_Interview/blob/main/ex4b.png?raw=true)
+![EX4b](https://github.com/MMuessen/VastData_Interview/blob/main/EX4b.png)
 
 # My Home Lab
 
